@@ -1,2 +1,2 @@
--- AlterTable
-ALTER TABLE "Enrollment" ADD COLUMN     "inactivatedAt" TIMESTAMP(3);
+-- AlterTable com precisão
+ALTER TABLE `Enrollment` ADD COLUMN `inactivatedAt` TIMESTAMP(3);
